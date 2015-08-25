@@ -1,8 +1,7 @@
 "==========================================
-" Author:  wklken
+" Author:  caiyilong
 " Version: 7
-" Email: wklken@yeah.net
-" BlogPost: http://wklken.me
+" Email: caiyilong@dachuwang.com
 " ReadMe: README.md
 " Last_modify: 2014-03-15
 " Sections:
